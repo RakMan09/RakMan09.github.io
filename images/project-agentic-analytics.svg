@@ -1,0 +1,17 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="720" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/>
+      <stop offset="1" stop-color="#1F2937"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <rect x="100" y="100" width="1080" height="520" rx="24" fill="#0B1222" stroke="#38BDF8" stroke-width="2"/>
+  <polyline points="180,440 280,350 380,390 500,260 620,300 740,220 860,280 980,180 1100,230" stroke="#22D3EE" stroke-width="6" fill="none"/>
+  <rect x="170" y="190" width="220" height="120" rx="12" fill="#1E293B"/>
+  <rect x="420" y="190" width="220" height="120" rx="12" fill="#1E293B"/>
+  <rect x="670" y="190" width="220" height="120" rx="12" fill="#1E293B"/>
+  <rect x="920" y="190" width="220" height="120" rx="12" fill="#1E293B"/>
+  <text x="170" y="560" fill="#E2E8F0" font-family="Geist, Arial" font-size="50" font-weight="700">Visual Analytics for Agentic AI Systems</text>
+  <text x="170" y="600" fill="#7DD3FC" font-family="Geist, Arial" font-size="27">Trace Replay · DuckDB Metrics · D3 Waterfall Views</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="720" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/>
+      <stop offset="1" stop-color="#0B1120"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <rect x="150" y="90" width="980" height="540" rx="36" fill="#0E1729" stroke="#5EEAD4" stroke-width="2"/>
+  <rect x="290" y="150" width="700" height="420" rx="30" fill="#111D35"/>
+  <circle cx="640" cy="300" r="150" stroke="#22D3EE" stroke-width="4" stroke-dasharray="10 14"/>
+  <path d="M640 250 L670 230 L695 250 L700 295 L680 335 L650 355 L620 355 L600 330 L592 290 L605 255 Z" fill="#38BDF8" fill-opacity="0.22" stroke="#67E8F9" stroke-width="3"/>
+  <rect x="350" y="490" width="180" height="32" rx="16" fill="#1D4ED8"/>
+  <rect x="550" y="490" width="180" height="32" rx="16" fill="#0F766E"/>
+  <rect x="750" y="490" width="180" height="32" rx="16" fill="#14532D"/>
+  <text x="190" y="560" fill="#E2E8F0" font-family="Geist, Arial" font-size="50" font-weight="700">Touchless Gesture Mobile Control</text>
+  <text x="190" y="600" fill="#67E8F9" font-family="Geist, Arial" font-size="28">TensorFlow CNN · MediaPipe · Android TFLite</text>
+</svg>
