@@ -5,6 +5,13 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
   {
+    title: "Market Data Engine",
+    category: "Low-Latency Market Data Replay and L2 Order Book Engine",
+    tools: "C++20, CMake, Docker, React TypeScript, CI/CD, Metrics Dashboard",
+    image: "/images/market_data_engine.png",
+    link: "https://github.com/RakMan09/market-data-engine",
+  },
+  {
     title: "PolicyLLM Support Bot",
     category: "Policy-grounded LLM Support Automation",
     tools: "Python, FastAPI, PostgreSQL, Transformers, LoRA, Docker, Streamlit",
